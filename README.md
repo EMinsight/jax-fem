@@ -79,6 +79,20 @@ JAX-FEM is Automatic Differentiation (AD) + Finite Element Method (FEM), and we 
 </p>
 
 
+## JAX-FEM Express
+
+Want to experience JAX-FEM quickly and conveniently? Try JAX-FEM Express! https://www.bohrium.com/apps/jax-fem-express
+
+<p align="middle">
+  <a href="https://www.youtube.com/watch?v=LsBPWGrDhiY">
+    <img src="docs/source/_static/images/jax_fem_express.png" width="600" alt="JAX-FEM Express Video" />
+  </a>
+</p>
+<p align="middle">
+    <em>Click to watch the JAX-FEM Express video</em>
+</p>
+
+
 ## License
 
 This project is licensed under the GNU General Public License v3 - see the [LICENSE](https://www.gnu.org/licenses/) for details. For commercial use, contact [Tianju Xue](https://ce.hkust.edu.hk/people/tian-ju-xue-xuetianju).
